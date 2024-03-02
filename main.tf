@@ -10,7 +10,7 @@ resource "aws_instance" "terra-ec2" {
   }
 }
 
-//Bk_o7M9-
+
 
 
 
