@@ -15,7 +15,7 @@ pipeline {
                  script{
                         dir("Jenkins-aws")
                         {
-                            git "https://github.com/Pedraza57/Jankins-aws.git"
+                            git "https://github.com/Pedraza57/Jenkins-aws.git"
                         }
                     }
                 }
